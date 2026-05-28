@@ -1,0 +1,32 @@
+aid: cleanuri
+name: CleanURI
+description: "URL shortener service"
+url: https://cleanuri.com/docs
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "URL Shorteners"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - URL Shorteners
+  - Public APIs
+apis:
+  - name: CleanURI
+    description: "URL shortener service"
+    humanURL: https://cleanuri.com/docs
+    baseURL: https://cleanuri.com/docs
+    tags:
+      - URL Shorteners
+    properties:
+      - type: Documentation
+        url: https://cleanuri.com/docs
+common:
+  - type: Website
+    url: https://cleanuri.com/docs
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
