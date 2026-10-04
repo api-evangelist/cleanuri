@@ -39,7 +39,6 @@ apis:
   - name: CleanURI
     description: "URL shortener service"
     humanURL: https://cleanuri.com/docs
-    baseURL: https://cleanuri.com/docs
     tags:
       - URL Shorteners
     properties:
